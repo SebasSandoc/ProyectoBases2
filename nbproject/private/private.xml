@@ -3,7 +3,27 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/C:/Users/SEBASTIAN/Documents/NetBeansProjects/ProyectoBases2/src/modelo/AutoCategoria.java</file>
+            <file>file:/C:/Users/SEBASTIAN/Documents/NetBeansProjects/ProyectoBases2/src/modelo/Rol.java</file>
+            <file>file:/C:/Users/SEBASTIAN/Documents/NetBeansProjects/ProyectoBases2/src/modelo/Envio.java</file>
             <file>file:/C:/Users/SEBASTIAN/Documents/NetBeansProjects/ProyectoBases2/src/controlador/ProyectoBases2.java</file>
+            <file>file:/C:/Users/SEBASTIAN/Documents/NetBeansProjects/ProyectoBases2/src/modelo/Mantenimiento.java</file>
+            <file>file:/C:/Users/SEBASTIAN/Documents/NetBeansProjects/ProyectoBases2/src/modelo/VentaServicio.java</file>
+            <file>file:/C:/Users/SEBASTIAN/Documents/NetBeansProjects/ProyectoBases2/src/modelo/Auto.java</file>
+            <file>file:/C:/Users/SEBASTIAN/Documents/NetBeansProjects/ProyectoBases2/src/modelo/Pago.java</file>
+            <file>file:/C:/Users/SEBASTIAN/Documents/NetBeansProjects/ProyectoBases2/src/modelo/Categoria.java</file>
+            <file>file:/C:/Users/SEBASTIAN/Documents/NetBeansProjects/ProyectoBases2/src/modelo/PruebaManejo.java</file>
+            <file>file:/C:/Users/SEBASTIAN/Documents/NetBeansProjects/ProyectoBases2/src/modelo/Empleado.java</file>
+            <file>file:/C:/Users/SEBASTIAN/Documents/NetBeansProjects/ProyectoBases2/src/modelo/Servicio.java</file>
+            <file>file:/C:/Users/SEBASTIAN/Documents/NetBeansProjects/ProyectoBases2/src/modelo/Venta.java</file>
+            <file>file:/C:/Users/SEBASTIAN/Documents/NetBeansProjects/ProyectoBases2/src/modelo/Sucursal.java</file>
+            <file>file:/C:/Users/SEBASTIAN/Documents/NetBeansProjects/ProyectoBases2/src/modelo/PagoTipo.java</file>
+            <file>file:/C:/Users/SEBASTIAN/Documents/NetBeansProjects/ProyectoBases2/src/modelo/TipoMantenimiento.java</file>
+            <file>file:/C:/Users/SEBASTIAN/Documents/NetBeansProjects/ProyectoBases2/src/modelo/SalarioHistorial.java</file>
+            <file>file:/C:/Users/SEBASTIAN/Documents/NetBeansProjects/ProyectoBases2/src/modelo/Inventario.java</file>
+            <file>file:/C:/Users/SEBASTIAN/Documents/NetBeansProjects/ProyectoBases2/src/modelo/Proveedor.java</file>
+            <file>file:/C:/Users/SEBASTIAN/Documents/NetBeansProjects/ProyectoBases2/src/modelo/AutoVendido.java</file>
+            <file>file:/C:/Users/SEBASTIAN/Documents/NetBeansProjects/ProyectoBases2/src/modelo/EnvioDetalle.java</file>
         </group>
     </open-files>
 </project-private>
