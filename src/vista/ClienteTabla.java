@@ -69,12 +69,17 @@ public class ClienteTabla extends javax.swing.JFrame {
         btnBuscar.setText("Buscar...");
 
         cmbLista.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "ClienteID", "Nombre", "Apellido", "Genero", "Direccion", "Email", "Telefono", "FechaNacimiento" }));
+        cmbLista.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                cmbListaActionPerformed(evt);
+            }
+        });
 
         jLabel3.setText("Eliminar:");
 
         jLabel4.setText("ID:");
 
-        btnEliminar.setText("jButton1");
+        btnEliminar.setText("Eliminar");
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
@@ -160,6 +165,10 @@ public class ClienteTabla extends javax.swing.JFrame {
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
+
+    private void cmbListaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_cmbListaActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_cmbListaActionPerformed
 
     /**
      * @param args the command line arguments
